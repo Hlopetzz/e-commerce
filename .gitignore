@@ -1,0 +1,8 @@
+node_modules
+.vscode
+test
+.eslintrc.json
+*.log
+debug.js
+.DS_Store
+temp.js
